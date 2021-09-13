@@ -4,7 +4,7 @@ import poo.quiz.dominio.DispensadorDeGel;
 
 public class AppGel {
     public static void main(String[] args) {
-        DispensadorDeGel dispensador = new DispensadorDeGel("Familia", 4);
+        DispensadorDeGel dispensador = new DispensadorDeGel("Suave", 4);
 
         dispensador.dispensar(4);
 
